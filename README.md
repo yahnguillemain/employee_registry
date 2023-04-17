@@ -1,0 +1,3 @@
+# Technical Test
+
+![](schema.svg)
